@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **anything and everything**
 
 - 🤝 I’m looking for help with **learning more**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
