@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A passionate junior software engineer!</h3>
+<h3 align="center">A passionate junior fullstack developer!</h3>
 
 - 🔭 I’m currently working on multiple projects!**
 
