@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A passionate junior software engineer!</h3>
 
-- 🔭 I’m currently working on **email automation (would link but has confidential info)**
+- 🔭 I’m currently working on multiple projects!**
 
 - 🌱 I’m currently learning **advanced python, javascript.**
 
